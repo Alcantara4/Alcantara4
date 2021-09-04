@@ -6,7 +6,7 @@
 
   <a href="https://github.com/Dxt404">
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dxt404&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dxt404&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
 <br>
 <br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Dxt404"/>
