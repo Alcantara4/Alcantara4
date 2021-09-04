@@ -1,5 +1,9 @@
 <h1><a  href="https://github.com/Dxt404/">Dxt' </a> </h1>
 
+- My User Name On Discord: **Dxt' ♡#0007** <br>
+- *“The unexamined life is not worth living” – Socrates.*
+
+
   <a href="https://github.com/Dxt404">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dxt404&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
