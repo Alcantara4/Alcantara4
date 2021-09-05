@@ -1,6 +1,6 @@
 <h1><a  href="https://github.com/Dxt404/">Dxt' </a> </h1>
 
-- My User Name On Discord: **Dxt' ♡#0007** <br>
+- My Username On Discord: **Dxt' ♡#0007** <br>
 - *“The unexamined life is not worth living” – Socrates.*
 
 
