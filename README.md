@@ -1,6 +1,6 @@
 <h1><a  href="https://github.com/Zyrex4/">Zyrex </a> </h1>
 
-- My Username On Discord: **Dxt' ♡#0007** <br>
+- <img src="https://lanyard-profile-readme.vercel.app/api/946211891443822593?bg=transparentd&borderRadius=8px&hideDiscrim=true">
 - *“The unexamined life is not worth living” – Socrates.*
 
 
