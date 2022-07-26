@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrex4&layout=compact&hide_border=true&title_color=ffff&text_color=c9d1d9&bg_color=110140" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Zyrex4&theme=rogue&line=a875ff&point=ffffff&bg_color=110140&hide_border=true&area=true)
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <img src="https://komarev.com/ghpvc/?username=Zyrex4&color=gray" alt="Pedro">
