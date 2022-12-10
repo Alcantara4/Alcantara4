@@ -7,7 +7,7 @@
       <img src="https://komarev.com/ghpvc/?username=Alcantara4&color=E6E6FA&style=flat" alt="Alcantara4">
     </p>
   <p align="center">
-        <img src="https://raw.githubusercontent.com/Alcantara4/Alcantara4/main/images/wallpaper1.gif" />
+        <img src="https://raw.githubusercontent.com/Alcantara4/Alcantara4/main/images/wallpaper1.gif"/>
   </p>
 </a>
 
